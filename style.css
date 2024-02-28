@@ -1,0 +1,35 @@
+#cabecera{
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+#curpL{
+    color: red;
+    border: red;
+}
+#DatosCont{
+    display: none;
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+#CURPCont{
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+#obli{
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding: 20px;
+    color: red;
+}
+
+#botomS{
+    margin: 0 auto;
+    text-align: center;
+}
